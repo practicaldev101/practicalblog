@@ -17,11 +17,6 @@ body {
     font: 25px;
 }
 
-#post {
-    padding: 20px;
-    height: 20%;
-}
-
 #cabecera {
     padding: 20;
     box-sizing: border-box;
@@ -29,4 +24,9 @@ body {
     color: white;
     text-align: center;
     width: 100%;
+}
+
+#post {
+    padding: 20px;
+    height: 20%;
 }
