@@ -6,11 +6,27 @@ body {
 
 #container {
     width: 70%;
-    padding: 20px;
     border: 1px solid black;
     margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
 }
 
-#container h1{
+#container h1 {
     font: 25px;
+}
+
+#post {
+    padding: 20px;
+    height: 20%;
+}
+
+#cabecera {
+    padding: 20;
+    box-sizing: border-box;
+    background: brown;
+    color: white;
+    text-align: center;
+    width: 100%;
 }
