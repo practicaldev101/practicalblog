@@ -13,10 +13,6 @@ body {
     overflow: hidden;
 }
 
-<<<<<<< HEAD
-#container h1{
-    font: 20px;
-=======
 #container h1 {
     font: 25px;
 }
@@ -33,5 +29,4 @@ body {
 #post {
     padding: 20px;
     height: 20%;
->>>>>>> cabecera
 }
