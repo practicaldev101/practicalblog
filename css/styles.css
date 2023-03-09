@@ -41,3 +41,11 @@ body {
     height: 20%;
     background-color: #FFF;
 }
+
+#footer {
+    padding: 5px;
+    color: white;
+    background-color: #4b4b4b;
+    width: 100%;
+    text-align: center;
+}
