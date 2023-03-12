@@ -3,5 +3,7 @@
 
 ##### #SoyTeamPlatzi
 
+> La edad no es un obstaculo para aprender.
+
 
 ![](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
