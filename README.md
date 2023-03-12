@@ -5,11 +5,8 @@
 
 > La edad no es un obstaculo para aprender.
 
-<<<<<<< HEAD
-=======
 > Omnibus dubidatum.
 
 # Este repositorio está patrocinado por Practical
->>>>>>> readme-mejorado
 
 ![](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
